@@ -1,3 +1,0 @@
-/home/leecw/Reps/Libtorch-Study/build/CMakeFiles/rebuild_cache.dir
-/home/leecw/Reps/Libtorch-Study/build/CMakeFiles/edit_cache.dir
-/home/leecw/Reps/Libtorch-Study/build/CMakeFiles/main.dir

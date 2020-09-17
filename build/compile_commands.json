@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/leecw/Reps/Libtorch-Study/build",
-  "command": "/usr/bin/g++-7  -isystem /usr/local/libtorch/include -isystem /usr/local/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda/include -O2 -g -DNDEBUG -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++14 -o CMakeFiles/main.dir/main.cpp.o -c /home/leecw/Reps/Libtorch-Study/main.cpp",
-  "file": "/home/leecw/Reps/Libtorch-Study/main.cpp"
-}
-]
